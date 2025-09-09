@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cley-Junior
 - 👀 I’m interested in coding, games, sports and so much more
 - 🌱 I’m currently working with javascript, typescript, angular, .NET and next.js
-- 💻 I'm a senior front-end developer at next.js with next 13 and 14
+- 💻 I'm a mid-level fullstack developer
 
 - 📫 How to reach me:
 - ☑️ www.linkedin.com/in/cley-j-a13600123/
